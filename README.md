@@ -1,2 +1,2 @@
 # TT
-Trabajo terminar Ramos Mendoza Eduardo
+Trabajo terminal Ramos Mendoza Eduardo
